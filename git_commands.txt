@@ -4,3 +4,6 @@ git add 'filename'
 
 git commit
 git config --global user.email "Description"
+git config --globa user.name "Username"
+:wq (exit to commit after of write description to the commit)
+
